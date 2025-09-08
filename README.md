@@ -1,14 +1,10 @@
-# MCP
+# MCP Project
 
-**M**achine **C**ode **P**roject
-
-## Description
-MCP is a versatile Python library for [describe core functionality].
+A comprehensive project description and documentation.
 
 ## Features
 - Feature 1
 - Feature 2
-- Feature 3
 
 ## Installation
 ```bash
@@ -16,13 +12,10 @@ pip install mcp
 ```
 
 ## Usage
-```python
-import mcp
-# Example code
-```
+Example usage and API reference.
 
 ## Contributing
-Pull requests welcome! Open an issue first for discussion.
+Contributions welcome! Open an issue for suggestions.
 
 ## License
-MIT License (see LICENSE file)
+MIT License
